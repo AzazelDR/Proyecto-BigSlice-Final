@@ -1,0 +1,14 @@
+@font-face {
+    font-family: BS;
+    src: url("../fonts/bs.ttf");
+}
+
+@font-face {
+    font-family: BSbold;
+    src: url("../fonts/bsb.ttf");
+}
+
+* {
+    font-family: "BS";
+    transition: 0.2s;
+}
